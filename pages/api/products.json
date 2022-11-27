@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://pbs.twimg.com/profile_images/1527097485243850752/NosqM2qR_400x400.jpg",
+    "filename": "NosqM2qR_400x400.jpg",
+    "hash": "QmSjE3i5N9Jj4yYom8JsnBUdheEjyUjbWBQkwo8KVA8BNb"
+  },
+  {
+    "id": 2,
+    "name": "syskey",
+    "price": "0.1",
+    "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif",
+    "description": "syskey"
+  }
+]
